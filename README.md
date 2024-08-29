@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andreas Krøger Madsen. I am currently finishing year 2 of my IT - Programming bachelor 💻 
+My name is Andreas Krøger Madsen. I am currently in year 3 of my IT - Programming bachelor 💻 
 
 I am interested in GIS, React, Java, Unity Development and I'm still learning!
 
